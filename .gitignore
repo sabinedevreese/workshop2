@@ -1,2 +1,4 @@
 #Negeer Backups
-
+*~
+*.bak
+build/
